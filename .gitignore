@@ -1,0 +1,8 @@
+node_modules/
+*.log
+docs
+.coveralls.yml
+.nyc_output
+coverage
+.DS_Store
+*.tgz
